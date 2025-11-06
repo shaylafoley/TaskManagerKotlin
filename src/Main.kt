@@ -1,4 +1,3 @@
-
 // Data class for the Task
 // This uses variables, arguments and classes
 data class Task(
